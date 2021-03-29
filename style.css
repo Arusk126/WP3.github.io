@@ -21,7 +21,7 @@ h4 {
 } 
 
 .jumbotron {
-    background-color: #00754a;
+    background-color: #1bbfe6;
     color: #fff;
     padding: 100px 25px;
     font-family: Montserrat, sans-serif;
@@ -37,12 +37,12 @@ h4 {
 }
 
 .logo-small {
-    color: #00754a;
+    color: #1bbfe6;
     font-size: 50px;
 }
 
 .logo {
-    color: #00754a;
+    color: #1bbfe6;
     font-size: 200px;
 }
 
@@ -60,15 +60,15 @@ h4 {
 
 .carousel-control.right, .carousel-control.left {
     background-image: none;
-    color: #00754a;
+    color: #1bbfe6;
 }
 
 .carousel-indicators li {
-    border-color: #00754a;
+    border-color: #1bbfe6;
 }
 
 .carousel-indicators li.active {
-    background-color: #00754a;
+    background-color: #1bbfe6;
 }
 
 .item h4 {
@@ -84,7 +84,7 @@ h4 {
 }
 
 .panel {
-    border: 1px solid #00754a; 
+    border: 1px solid #1bbfe6; 
     border-radius:0 !important;
     transition: box-shadow 0.5s;
 }
@@ -94,14 +94,14 @@ h4 {
 }
 
 .panel-footer .btn:hover {
-    border: 1px solid #00754a;
+    border: 1px solid #1bbfe6;
     background-color: #fff !important;
-    color: #00754a;
+    color: #20c6ee;
 }
 
 .panel-heading {
     color: #fff !important;
-    background-color: #00754a !important;
+    background-color: #1bbfe6 !important;
     padding: 25px;
     border-bottom: 1px solid transparent;
     border-top-left-radius: 0px;
@@ -125,13 +125,13 @@ h4 {
 
 .panel-footer .btn {
     margin: 15px 0;
-    background-color: #00754a;
+    background-color: #1bbfe6;
     color: #fff;
 }
 
 .navbar {
     margin-bottom: 0;
-    background-color: #00754a;
+    background-color: #1bbfe6;
     z-index: 9999;
     border: 0;
     font-size: 12px !important;
@@ -152,7 +152,7 @@ h4 {
 }
 
 .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #00754a !important;
+    color: #1bbfe6 !important;
     background-color: #fff !important;
 }
 
@@ -162,7 +162,7 @@ h4 {
 }
 
 .button {
-    background-color: #00754a;
+    background-color: #1bbfe6;
     border: none;
     border-radius: 15px;
     color: white;
@@ -177,7 +177,7 @@ h4 {
 }
 
 .button:hover {
-    background-color: #00754a;
+    background-color: #1bbfe6;
     color: white;
     text-decoration: none;
 }
@@ -185,7 +185,7 @@ h4 {
 footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
-    color: #00754a;
+    color: #1bbfe6;
 }
 
 .slideanim {

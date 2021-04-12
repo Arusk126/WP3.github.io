@@ -41,6 +41,11 @@ h4 {
     font-size: 50px;
 }
 
+.logo-large {
+    color: #1566e8;
+    font-size: 200px;
+}
+
 .logo {
     color: #1bbfe6;
     font-size: 200px;
@@ -81,6 +86,11 @@ h4 {
 
 .item span {
     font-style: normal;
+}
+
+.photo {
+    width: 50px;
+    height: 50px;
 }
 
 .panel {
